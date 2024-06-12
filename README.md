@@ -12,6 +12,12 @@
 ![image](https://github.com/singhritesh85/DevOps-Project-SpringBootApplication-rediscache-MySQLDB/assets/56765895/fac4965f-0c21-4e3f-9b51-3f33490e0f8a)
 4. Do the entry in the file spring-redis-cache-mysql/src/main/java/com/springredis/cache/SpringRedisCacheApplication.java for Redis hostname, Redis Port and Redis primary key.
 ![image](https://github.com/singhritesh85/DevOps-Project-SpringBootApplication-rediscache-MySQLDB/assets/56765895/a8bce6aa-8927-444d-bc26-0561a361044e)
-6. Build the Code using Maven as shown in the screenshot below
+5. Build the Code using Maven as shown in the screenshot below
 ![image](https://github.com/singhritesh85/DevOps-Project-SpringBootApplication-rediscache-MySQLDB/assets/56765895/5d14398a-41b4-4438-9728-aded6fee4810)
+6. Start the Spring Boot Application as shown in screenshot below
+![image](https://github.com/singhritesh85/DevOps-Project-SpringBootApplication-rediscache-MySQLDB/assets/56765895/e4062fb2-f742-49e0-bd60-36e3e7e38000)
 7. Now use POST method for entry into the table items from POSTMAN as shown in screenshot below.
+![image](https://github.com/singhritesh85/DevOps-Project-SpringBootApplication-rediscache-MySQLDB/assets/56765895/db60004a-6a25-4b14-b08b-c08322a29e93)
+8. Checked from database and found entry is present in the database table as shown in the screenshot below
+![image](https://github.com/singhritesh85/DevOps-Project-SpringBootApplication-rediscache-MySQLDB/assets/56765895/a07c4233-51f4-45d9-8b22-48dd204fbef5)
+9. 
