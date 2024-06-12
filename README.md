@@ -37,7 +37,7 @@ The motive of this project is to show the advantage of implementing Redis Cache 
 <br><br/>
 <br><br/>
 ```
-Source Code:- https://github.com/kamalmohan217/spring-redis-cache-mysql.git
+Source Code:- https://github.com/singhritesh85/spring-redis-cache-mysql.git
 ```
 <br><br/>
 <br><br/>
