@@ -9,7 +9,7 @@
 ![image](https://github.com/singhritesh85/DevOps-Project-SpringBootApplication-rediscache-MySQLDB/assets/56765895/872c7247-eb68-45bd-b52f-27924b102b8b)
 ![image](https://github.com/singhritesh85/DevOps-Project-SpringBootApplication-rediscache-MySQLDB/assets/56765895/08b842c0-69e1-40b5-90c7-bac6ea7794fb)
 3. Do the entry in the file spring-redis-cache-mysql/src/main/resources/application.properties for spring.datasource.url, spring.datasource.username and spring.datasource.password as shown in the screenshot below.
-![image](https://github.com/singhritesh85/DevOps-Project-SpringBootApplication-rediscache-MySQLDB/assets/56765895/fac4965f-0c21-4e3f-9b51-3f33490e0f8a)
+![image](https://github.com/singhritesh85/DevOps-Project-SpringBootApplication-rediscache-MySQLDB/assets/56765895/5b160929-05e2-46bb-a57b-ddfd6f9ccd77)
 4. Do the entry in the file spring-redis-cache-mysql/src/main/java/com/springredis/cache/SpringRedisCacheApplication.java for Redis hostname, Redis Port and Redis primary key.
 ![image](https://github.com/singhritesh85/DevOps-Project-SpringBootApplication-rediscache-MySQLDB/assets/56765895/a8bce6aa-8927-444d-bc26-0561a361044e)
 5. Build the Code using Maven as shown in the screenshot below
