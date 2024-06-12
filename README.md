@@ -25,7 +25,7 @@
 This is the first time we are accessing the data So Application will connect to database and provide the result and you can see from screenshot below the time taken 669ms.
 10. Finally Access the entry second time using GET method from POSTMAN and record the time as shown in the screenshot below
 ![image](https://github.com/singhritesh85/DevOps-Project-SpringBootApplication-rediscache-MySQLDB/assets/56765895/a9c0406e-f19b-49a3-b4c7-38cfe7c76949)
-This time when we access the data then SpringBoot Application will connect with Redis cache and provide the data and hence the time taken is less.
+This time when we access the data then SpringBoot Application will connect with Redis cache and provide the data and hence the time taken is relatively less.
 <br><br/>
 The motive of this project is to show the advantage of implementing Redis Cache with MySQL database in an Application. Whenever we query any data then Application will connect with the Redis Cache and if it doesn't find the data in cache then it will connect with database and get the data. After geting the data from database it will make an entry in the Redis Cache for the same. So that next time if same data will be queried then Application will conect with Redis Cache and get the data rather than connecting with the database and getting the data and hence the latency for the request has been reduced.
 
