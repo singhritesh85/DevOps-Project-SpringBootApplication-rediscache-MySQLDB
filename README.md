@@ -20,4 +20,9 @@
 ![image](https://github.com/singhritesh85/DevOps-Project-SpringBootApplication-rediscache-MySQLDB/assets/56765895/db60004a-6a25-4b14-b08b-c08322a29e93)
 8. Checked from database and found entry is present in the database table as shown in the screenshot below
 ![image](https://github.com/singhritesh85/DevOps-Project-SpringBootApplication-rediscache-MySQLDB/assets/56765895/a07c4233-51f4-45d9-8b22-48dd204fbef5)
-9. 
+9. Now Access the entry using GET method from POSTMAN and record the time as shown in the screenshot below
+![image](https://github.com/singhritesh85/DevOps-Project-SpringBootApplication-rediscache-MySQLDB/assets/56765895/3fc850bb-4124-4b7f-8e79-7ce70d8d66cd)
+This is the first time we are accessing the data So Application will connect to database and provide the result and you can see from screenshot below the time taken 669ms.
+10. Finally Access the entry second time using GET method from POSTMAN and record the time as shown in the screenshot below
+![image](https://github.com/singhritesh85/DevOps-Project-SpringBootApplication-rediscache-MySQLDB/assets/56765895/a9c0406e-f19b-49a3-b4c7-38cfe7c76949)
+This time when we access the data then SpringBoot Application will connect with Redis cache and provide the data and hence the time taken is less.
